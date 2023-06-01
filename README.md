@@ -1,3 +1,6 @@
 # Big-Data-Analysis
 
 Contributed by Emily Xiaoqi He, Huijing Yang, Lokendra Singh Badgujar, Sheng Zhou and Karollyne Zortea (Team Lead)
+
+## Problem Statement
+Air travel is an essential aspect of modern life, with millions of people relying on it for business, leisure, and personal connections. The fluctuating nature of flight prices, influenced by factors such as supply, demand, seasonality, and competition, often leaves travelers overwhelmed when trying to find the best deals on airfare. At the same time, airlines and travel companies are constantly seeking to optimize their pricing strategies to maximize revenues and maintain customer satisfaction. Despite the abundance of flight data available, accurately forecasting flight prices remains a challenge for both travelers and industry stakeholders. Our goal is to develop a flight price predictor that leverages big data techniques and machine learning algorithms to accurately forecast flight prices, enabling travelers to make informed decisions and save money on air travel. By providing essential information, such as departure date and time, arrival time, source and destination, number of stops, and airline name, our solution aims to empower users with the insights they need while also assisting airlines and travel companies in refining their pricing strategies.
